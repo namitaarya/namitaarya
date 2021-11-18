@@ -1,4 +1,3 @@
-### Hi there 👋
 <!--
 **namitaarya/namitaarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,7 +26,7 @@ Here are some ideas to get you started:
 <br> <br>
 
 🎓 I’m currently in my Sophomore year studying Computer Science. <br />
-✨ I have experimented flutter and computer vision in the past. Presently, I am learning web development.
+✨ I have experimented with flutter and computer vision in the past. Currently, I am learning web development.
 
 
 ### Languages⚡
