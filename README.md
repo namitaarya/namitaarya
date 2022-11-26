@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 <a href="mailto:namitaarya2002@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
 </a>
-<a href="https://www.instagram.com/namitaarya_"/>
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"   />
-</a>
 <br> <br>
 
 🎓 I’m currently in my Sophomore year studying Computer Science. <br />
